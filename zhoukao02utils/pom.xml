@@ -7,7 +7,7 @@
    <!-- 配置pom文件的配置信息的版本 （统一版本） 指定编码格式 -->
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<spring.version>4.3.24.RELEASE</spring.version>
+		<spring.version>6.0.0</spring.version>
 		<jackson.version>2.8.3</jackson.version>
 	</properties>
 
